@@ -1,0 +1,3 @@
+The supporting data here include temporal dissolved oxygen (DO) and discharge (Q) of 580 US rivers and 88 basin attributes across 6 categories of climate, hydrology, topography, land use, soil and geology, including coordinates, elevation, slope, annual snow fraction, annual and monthly average of precipitation, temperature, and discharge, base flow index (BFI), land use percentages of agriculture, forest, urban, open water, soil depth, soil component percentages of sand, silt, clay, and organic carbon, percentage of dominant geology type, among others
+
+Meteorological forcing can be accessed from https://daymet.ornl.gov.
