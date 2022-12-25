@@ -10,7 +10,7 @@ Supporting data for a dissolved oxygen (DO) deep learning model for 580 US river
   
 The meteorological forcing data are from the gridded DAYMET dataset (https://daymet.ornl.gov/) that were basin-aggregated using delineated watershed boundaries and Google Earth Engine.
 
-Discharge and the biogeochemical data were downloaded from the USGS National Water Information System (NWIS, https://waterdata.usgs.gov/nwis) using the dataRetrieval R package. 
+Discharge and the biogeochemical data were downloaded from the USGS National Water Information System (NWIS, https://waterdata.usgs.gov/nwis) using the dataRetrieval R package (a downloading sample script provided). 
 
 Basin attributes were compiled from the Geospatial Attributes of Gages for Evaluating Streamflow dataset, Version II (GAGES-II, https://pubs.er.usgs.gov/publication/70046617).
 
