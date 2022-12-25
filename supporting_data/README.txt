@@ -1,4 +1,5 @@
 Supporting data for a dissolved oxygen (DO) deep learning model for 580 US rivers. Model inputs include:
+
 - time-series daily meteorological forcing from DAYMET: precipitation [mm/d], day length [s/d], maximum and minimum air temperature [°C], snow water equivalent [kg/m<sup>2</sup>], vapor pressure [Pa], and solar radiation [W/m<sup>2</sup>]
 - time-series daily streamflow from USGS: discharge Q [mm/d] normalized by basin drainage area 
 - time-series biogeochemical data from USGS: specific conductivity (SC), pH, bicarbonate (HCO<sub>3</sub><sup>-</sup>), and dissolved organic carbon (DOC)
