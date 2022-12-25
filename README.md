@@ -1,4 +1,4 @@
-# DO-dataset-US-rivers
+# NatureWater-US-river-DO-dataset
 
 Supporting data for basin attributes in 580 US rivers, compiled from the Geospatial Attributes of Gages for Evaluating Streamflow dataset, Version II (GAGES-II, https://pubs.er.usgs.gov/publication/70046617).
 
